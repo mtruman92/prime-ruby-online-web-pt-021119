@@ -1,5 +1,5 @@
-#require 'prime'
-#def prime?(number)
-  #number.prime?( )
-#end
+require 'prime'
+def prime?(number)
+  number.prime?( )
+end
 
